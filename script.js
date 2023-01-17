@@ -1,0 +1,1 @@
+const caculate=()=>{console.log("btn click")}
